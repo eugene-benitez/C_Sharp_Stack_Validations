@@ -1,0 +1,12 @@
+body {
+    background-color: #a6e3e9;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: auto;
+    height: 100%;
+    max-height: auto;
+    position: absolute;
+    margin: 0 auto;
+}

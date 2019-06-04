@@ -1,0 +1,11 @@
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Validating/obj/Debug/netcoreapp2.0/Validating.csproj.CoreCompileInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Validating/obj/Debug/netcoreapp2.0/Validating.AssemblyInfoInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Validating/obj/Debug/netcoreapp2.0/Validating.AssemblyInfo.cs
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Validating/bin/Debug/netcoreapp2.0/Validating.deps.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Validating/bin/Debug/netcoreapp2.0/Validating.runtimeconfig.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Validating/bin/Debug/netcoreapp2.0/Validating.runtimeconfig.dev.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Validating/bin/Debug/netcoreapp2.0/Validating.dll
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Validating/bin/Debug/netcoreapp2.0/Validating.pdb
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Validating/obj/Debug/netcoreapp2.0/Validating.dll
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Validating/obj/Debug/netcoreapp2.0/Validating.pdb
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Validating/obj/Debug/netcoreapp2.0/Validating.csprojAssemblyReference.cache
